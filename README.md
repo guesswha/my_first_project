@@ -1,4 +1,4 @@
-# VNU Student Survey 📋
+# VNU Student Survey
 
 A simple survey web application built with **Streamlit**. Users can enter their personal information, select hobbies, choose their current subjects, and receive a summary of their responses.
 
