@@ -21,7 +21,7 @@ A simple survey web application built with **Streamlit**. Users can enter their 
 
 Clone this repository:
 
-git clone https://github.com/guessswha/vnu-student-survey.git
+git clone https://github.com/guesswha/my_first_project.git
 
 Move into the project folder:
 
