@@ -69,4 +69,4 @@ This project helped me practice:
 
 ## Author
 
-GitHub: https://github.com/guessswha
+GitHub: https://github.com/guesswha
